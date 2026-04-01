@@ -15,8 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   savePlayerBtn.addEventListener('click', () => {
     savePlayer();
-    logAction('Saved player Garfield');
-    renderStatus('Player saved as Garfield.');
+    logAction('Saved player Christian');
+    renderStatus('Player saved as Christian.');
   });
 
   recordScoreBtn.addEventListener('click', () => {
